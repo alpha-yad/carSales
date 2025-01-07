@@ -54,4 +54,8 @@ The **Car Deals App** is a platform designed to help users **buy**, **sell**, an
 ```bash
 git clone https://github.com/your-username/CarDealsApp.git
 
+### Screenshorts
+![Screenshot of app interface](https://github.com/alpha-yad/carSales/blob/master/ScreenShorts/WhatsApp%20Image%202024-11-25%20at%205.03.17%20PM.jpeg)
+
+
 
